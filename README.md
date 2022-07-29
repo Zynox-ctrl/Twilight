@@ -12,8 +12,10 @@
   <a href="none">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div id="views" align="center">
+</div>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Zynox-ctrl&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 
